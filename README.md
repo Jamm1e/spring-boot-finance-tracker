@@ -33,7 +33,11 @@ PostgreSQL: The relational database used to store all the application data.
 ## Video Demo
 A video demo of this application's functionality can be viewed here:
 
-[]
+
+
+https://github.com/user-attachments/assets/1d3b53d0-56a4-4351-8cbf-198daeece16e
+
+
 
 ## How to Run Locally
 To run this application, you need to have both the frontend and backend running.
